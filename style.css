@@ -1,0 +1,23 @@
+html{
+  text-align: center;
+        font-family: cursive;
+background-color:crimson;
+}
+.Main{
+   font-family: fantasy;
+}
+.line{
+    background-color: black;
+    width: 90px;
+    height: 7px;
+    margin:8px auto;
+}
+img{
+width:272px;
+    height:300px;
+    margin: 20px;
+    border: solid 5px black;
+}
+img:hover{
+    transform:scale(0.9);
+}
